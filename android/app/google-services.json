@@ -1,0 +1,295 @@
+{
+  "project_info": {
+    "project_number": "625582448507",
+    "firebase_url": "https://myfristapp-273612.firebaseio.com",
+    "project_id": "myfristapp-273612",
+    "storage_bucket": "myfristapp-273612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:497e67b3829a6fa31b67de",
+        "android_client_info": {
+          "package_name": "com.attendancetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:e9b2ec187d7588491b67de",
+        "android_client_info": {
+          "package_name": "com.e2soft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:0b181cf33b63f46a1b67de",
+        "android_client_info": {
+          "package_name": "com.hocexcel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-u8db6j3ube1cnc3edf2b51h3pkb2v9vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hocexcel",
+            "certificate_hash": "c403337965ce111fb26b6a5708b4d46ad0ffa15d"
+          }
+        },
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8774393929760728~5524608745"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:f2f7a46792d432bb1b67de",
+        "android_client_info": {
+          "package_name": "com.learnandgrowanimals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-pqut56fv3jej0im7eor74ue4g3oi4qj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learnandgrowanimals",
+            "certificate_hash": "4b196d060ab131e0b0556ffbb3064702855f2527"
+          }
+        },
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8774393929760728~5350515554"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:dd2ba2f80c99129e1b67de",
+        "android_client_info": {
+          "package_name": "com.pcaf.minhkhacld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:a9958291668ecd2e1b67de",
+        "android_client_info": {
+          "package_name": "com.scantogooglesheets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-a2f1ja49v9jj0pjuut3iqrgbc7f6vil9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scantogooglesheets",
+            "certificate_hash": "4b196d060ab131e0b0556ffbb3064702855f2527"
+          }
+        },
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8774393929760728~7479976179"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:a5e2dc1fa0e18d851b67de",
+        "android_client_info": {
+          "package_name": "com.scantogooglesheetspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-rcr988mjpceuqr7c9v79k4v31ijjkloh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scantogooglesheetspro",
+            "certificate_hash": "7fc7a80a3a8701e19a64f6962b9d3695dfc26791"
+          }
+        },
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625582448507:android:060e86ca54a0362b1b67de",
+        "android_client_info": {
+          "package_name": "com.stopwatchtogooglesheets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625582448507-9do5j9uv6jkq7phpb51pt7qc7dpbk88i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stopwatchtogooglesheets",
+            "certificate_hash": "7fc7a80a3a8701e19a64f6962b9d3695dfc26791"
+          }
+        },
+        {
+          "client_id": "625582448507-vo4dnv830dn56iiknqgs3j8462eocpcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stopwatchtogooglesheets",
+            "certificate_hash": "236e33dff070cdbe425633a9ee68125dd60e737d"
+          }
+        },
+        {
+          "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdvnqWMo_jMCslRkE54vcQZtjZxzHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625582448507-0ru70oe939in5be3861nitame4e6mcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8774393929760728~5425884204"
+    }
+  ],
+  "configuration_version": "1"
+}
