@@ -91,7 +91,7 @@ const PageWords = ({ navigation, route, }) => {
                         <ListItem bottomDivider>
                             <ListItem.Content>
                                 <View style={styles.row}>
-                                    <ListItem.Title style={styles.row.eng} onPress={() => onPressEng(item.eng)} >
+                                    <ListItem.Title style={styles.row.eng} onPress={() => onPressEng(item.eng)}>
                                         {item.eng}
                                     </ListItem.Title>
                                     <ListItem.Title style={styles.row.pro}>{item.pronunce ? item.pronunce : null}</ListItem.Title>
@@ -134,13 +134,13 @@ const styles = StyleSheet.create({
         flexDirection: 'row', justifyContent: 'center', alignItems: 'center',
         flexWrap: 'wrap', wordWrap: 'break-word',
         eng: {
-            width: '37.5%', height: '100%',
+            width: '37.5%', height: '100%', fontSize: hp('1.7%'),
         },
         pro: {
-            width: '25%',
+            width: '25%', fontSize: hp('1.7%'),
         },
         vie: {
-            width: '37.5%',
+            width: '37.5%', fontSize: hp('1.7%'),
         }
     }
 })

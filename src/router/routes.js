@@ -1,7 +1,7 @@
 import React from 'react';
-import { Setting_ContactSP, Setting_General, Setting_Policy, Setting_TermOfUse, Home_WordCategory, } from './src/components/pages/index';
-import Page_Words from './src/kits/page_component/page_words';
-import CustomHeaderbar from './src/kits/page_component/custom_header';
+import { Setting_ContactSP, Setting_General, Setting_Policy, Setting_TermOfUse, Home_WordCategory, } from '../components/pages/index';
+import Page_Words from '../kits/page_component/page_words';
+import CustomHeaderbar from '../kits/page_component/custom_header';
 
 const routes = [
     //Home

@@ -3,7 +3,7 @@ import { createMaterialTopTabNavigator } from '@react-navigation/material-top-ta
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import routes from './routes';
+import routes from './src/router/routes';
 import { HomeTab, QuizzGameTab, SettingTab } from './src/components/pages/index';
 
 
