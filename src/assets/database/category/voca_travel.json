@@ -1,0 +1,566 @@
+[
+ {
+   "id": 1,
+   "eng": "Account payable",
+   "pronunce": "",
+   "vie": "Tiền phải trả"
+ },
+ {
+   "id": 2,
+   "eng": "Account receivable",
+   "pronunce": "",
+   "vie": "Tiền phải thu"
+ },
+ {
+   "id": 3,
+   "eng": "Airline rout network",
+   "pronunce": "",
+   "vie": "đường bay"
+ },
+ {
+   "id": 4,
+   "eng": "Airline route map",
+   "pronunce": "",
+   "vie": "Sơ đồ tuyến bay/mạng"
+ },
+ {
+   "id": 5,
+   "eng": "Airline schedule",
+   "pronunce": "",
+   "vie": "Lịch bay"
+ },
+ {
+   "id": 6,
+   "eng": "Amendment fee",
+   "pronunce": "",
+   "vie": "Phí sửa đổi"
+ },
+ {
+   "id": 7,
+   "eng": "ASEAN",
+   "pronunce": "",
+   "vie": "Hiệp hội các quốc gia Đông Nam Á. Các quốc gia thành viên là: Brunei, Cambodia, Indonesia, Lao, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam"
+ },
+ {
+   "id": 8,
+   "eng": "Availability",
+   "pronunce": "",
+   "vie": "Còn để bán"
+ },
+ {
+   "id": 9,
+   "eng": "Back office",
+   "pronunce": "",
+   "vie": "Hậu trường"
+ },
+ {
+   "id": 10,
+   "eng": "Baggage allowance",
+   "pronunce": "",
+   "vie": "Lượng hành lý cho phép"
+ },
+ {
+   "id": 11,
+   "eng": "Boarding pass",
+   "pronunce": "",
+   "vie": "Thẻ lên máy bay"
+ },
+ {
+   "id": 12,
+   "eng": "Booking file",
+   "pronunce": "",
+   "vie": "Hồ sơ đặt chỗ"
+ },
+ {
+   "id": 13,
+   "eng": "Brochure Tài liệu giới thiệu",
+   "pronunce": "",
+   "vie": "– Brochure Tài liệu giới thiệu"
+ },
+ {
+   "id": 14,
+   "eng": "Cancellation penalty Phạt do huỷ bỏ",
+   "pronunce": "",
+   "vie": "– Cancellation penalty Phạt do huỷ bỏ"
+ },
+ {
+   "id": 15,
+   "eng": "Carrier",
+   "pronunce": "",
+   "vie": "Hãng vận chuyển"
+ },
+ {
+   "id": 16,
+   "eng": "Checkin time",
+   "pronunce": "",
+   "vie": "Thời gian vào cửa"
+ },
+ {
+   "id": 17,
+   "eng": "Checkin",
+   "pronunce": "",
+   "vie": "Thủ tục vào cửa"
+ },
+ {
+   "id": 18,
+   "eng": "Commission",
+   "pronunce": "",
+   "vie": "Hoa hồng"
+ },
+ {
+   "id": 19,
+   "eng": "Compensation",
+   "pronunce": "",
+   "vie": "Bồi thường"
+ },
+ {
+   "id": 20,
+   "eng": "Complimentary",
+   "pronunce": "",
+   "vie": "Miễn phí"
+ },
+ {
+   "id": 21,
+   "eng": "Credit card guarantee",
+   "pronunce": "",
+   "vie": "Đảm bảo bằng thẻ tín dụng"
+ },
+ {
+   "id": 22,
+   "eng": "CRS/GDS",
+   "pronunce": "",
+   "vie": "Hệ thống đặt giữ chỗ trên máy tính hoặc hệ thống phân phối toàn cầu. Hệ thống được sử dụng trên toàn thế giới để đặt chỗ trên máy bay cho hầu hết các hãng hàng không trên thế giới."
+ },
+ {
+   "id": 23,
+   "eng": "Customer file",
+   "pronunce": "",
+   "vie": "Hồ sơ khách hàng"
+ },
+ {
+   "id": 24,
+   "eng": "Dialect",
+   "pronunce": "",
+   "vie": "Tiếng địa phương, thổ ngữ"
+ },
+ {
+   "id": 25,
+   "eng": "Deposit",
+   "pronunce": "",
+   "vie": "Đặt cọc"
+ },
+ {
+   "id": 26,
+   "eng": "Destination Knowledge",
+   "pronunce": "",
+   "vie": "Kiến thức về điểm đến"
+ },
+ {
+   "id": 27,
+   "eng": "Destination",
+   "pronunce": "",
+   "vie": "Điểm đến"
+ },
+ {
+   "id": 28,
+   "eng": "Direct",
+   "pronunce": "",
+   "vie": "Trực tiếp"
+ },
+ {
+   "id": 29,
+   "eng": "Distribution",
+   "pronunce": "",
+   "vie": "Cung cấp"
+ },
+ {
+   "id": 30,
+   "eng": "Documentation",
+   "pronunce": "",
+   "vie": "Tài liệu giấy tờ"
+ },
+ {
+   "id": 31,
+   "eng": "Domestic travel",
+   "pronunce": "",
+   "vie": "Du lịch trong nước"
+ },
+ {
+   "id": 32,
+   "eng": "E Ticket",
+   "pronunce": "",
+   "vie": "Vé điện tử"
+ },
+ {
+   "id": 33,
+   "eng": "Educational Tour",
+   "pronunce": "",
+   "vie": "Tour du lịch tìm hiểu sản phẩm"
+ },
+ {
+   "id": 34,
+   "eng": "Excursion/promotion airfare Vé máy bay khuyến mại/hạ giá",
+   "pronunce": "",
+   "vie": "– Excursion/promotion airfare Vé máy bay khuyến mại/hạ giá"
+ },
+ {
+   "id": 35,
+   "eng": "Expatriate resident(s) of Vietnam",
+   "pronunce": "",
+   "vie": "Người nước ngoài sinh sống tại Việt Nam"
+ },
+ {
+   "id": 36,
+   "eng": "Familiarisation Visit/Trip",
+   "pronunce": "",
+   "vie": "Chuyến đi/chuyến thăm làm quen"
+ },
+ {
+   "id": 37,
+   "eng": "Final payment",
+   "pronunce": "",
+   "vie": "Khoản thanh toán lần cuối"
+ },
+ {
+   "id": 38,
+   "eng": "Flyer",
+   "pronunce": "",
+   "vie": "Tài liệu giới thiệu"
+ },
+ {
+   "id": 39,
+   "eng": "FOC",
+   "pronunce": "",
+   "vie": "Vé miễn phí; còn gọi là complimentary"
+ },
+ {
+   "id": 40,
+   "eng": "Geographic features",
+   "pronunce": "",
+   "vie": "Đặc điểm địa lý"
+ },
+ {
+   "id": 41,
+   "eng": "Gross rate",
+   "pronunce": "",
+   "vie": "Giá gộp"
+ },
+ {
+   "id": 42,
+   "eng": "Guide book",
+   "pronunce": "",
+   "vie": "Sách hướng dẫn"
+ },
+ {
+   "id": 43,
+   "eng": "High season",
+   "pronunce": "",
+   "vie": "Mùa đông khách/ cao điểm"
+ },
+ {
+   "id": 44,
+   "eng": "Inbound Tour Operator",
+   "pronunce": "",
+   "vie": "Hãng lữ hành trong nước"
+ },
+ {
+   "id": 45,
+   "eng": "Inbound tourism",
+   "pronunce": "",
+   "vie": "Khách du lịch từ nước ngoài vào"
+ },
+ {
+   "id": 46,
+   "eng": "Inclusive tour",
+   "pronunce": "",
+   "vie": "Chuyến du lịch giá trọn gói"
+ },
+ {
+   "id": 47,
+   "eng": "Independent Traveller or Tourist",
+   "pronunce": "",
+   "vie": "Khách lữ hành hoặc du lịch độc lập"
+ },
+ {
+   "id": 48,
+   "eng": "International tourist",
+   "pronunce": "",
+   "vie": "Khách du lịch quốc tế"
+ },
+ {
+   "id": 49,
+   "eng": "Itinerary component",
+   "pronunce": "",
+   "vie": "Thành phần lịch trình"
+ },
+ {
+   "id": 50,
+   "eng": "Itinerary",
+   "pronunce": "",
+   "vie": "Lịch trình"
+ },
+ {
+   "id": 51,
+   "eng": "Log on, log off",
+   "pronunce": "",
+   "vie": "Đăng nhập, đăng xuất"
+ },
+ {
+   "id": 52,
+   "eng": "Low Season",
+   "pronunce": "",
+   "vie": "Mùa vắng khách"
+ },
+ {
+   "id": 53,
+   "eng": "Loyalty programme",
+   "pronunce": "",
+   "vie": "Chương trình khách hàng thường xuyên"
+ },
+ {
+   "id": 54,
+   "eng": "Manifest",
+   "pronunce": "",
+   "vie": "Bảng kê"
+ },
+ {
+   "id": 55,
+   "eng": "Markup",
+   "pronunce": "",
+   "vie": "Số tiền mà một Hãng lữ hành hoặc một Hãng lữ hành bán sỉ du lịch nước ngoài sẽ cộng thêm vào chi phí sản phẩm của Công ty cung cấp để có thể trả hoa hồng cho các đại lý du lịch bán các sản phẩm tour du lịch của họ và để thu được một biên lợi nhuận cho công ty của họ"
+ },
+ {
+   "id": 56,
+   "eng": "MICE",
+   "pronunce": "",
+   "vie": "họp hành, Khuyến mại, Hội nghị, Triển lãm"
+ },
+ {
+   "id": 57,
+   "eng": "Nett rate",
+   "pronunce": "",
+   "vie": "Giá nett"
+ },
+ {
+   "id": 58,
+   "eng": "Outbound travel",
+   "pronunce": "",
+   "vie": "Du lịch ra nước ngoài"
+ },
+ {
+   "id": 59,
+   "eng": "Passport",
+   "pronunce": "",
+   "vie": "Hộ chiếu"
+ },
+ {
+   "id": 60,
+   "eng": "Preferred product",
+   "pronunce": "",
+   "vie": "Sản phẩm được ưu đãi"
+ },
+ {
+   "id": 61,
+   "eng": "Product Knowledge",
+   "pronunce": "",
+   "vie": "Kiến thức về sản phẩm"
+ },
+ {
+   "id": 62,
+   "eng": "Product Manager Giám đốc sản phẩm",
+   "pronunce": "",
+   "vie": "– Product Manager Giám đốc sản phẩm"
+ },
+ {
+   "id": 63,
+   "eng": "Rail schedule",
+   "pronunce": "",
+   "vie": "Lịch chạy tàu"
+ },
+ {
+   "id": 64,
+   "eng": "Reconfirmation of booking",
+   "pronunce": "",
+   "vie": "Xác nhận lại việc đặt chỗ"
+ },
+ {
+   "id": 65,
+   "eng": "Record Locator",
+   "pronunce": "",
+   "vie": "Hồ sơ đặt chỗ"
+ },
+ {
+   "id": 66,
+   "eng": "Retail Travel Agency",
+   "pronunce": "",
+   "vie": "Đại lý bán lẻ du lịch"
+ },
+ {
+   "id": 67,
+   "eng": "Seasonality",
+   "pronunce": "",
+   "vie": "Theo mùa"
+ },
+ {
+   "id": 68,
+   "eng": "Source market",
+   "pronunce": "",
+   "vie": "Thị trường nguồn"
+ },
+ {
+   "id": 69,
+   "eng": "Supplier of product",
+   "pronunce": "",
+   "vie": "Công ty cung cấp sản phẩm"
+ },
+ {
+   "id": 70,
+   "eng": "TCDL Vietnam National",
+   "pronunce": "",
+   "vie": "Administration of Tourism: Tổng cục Du lịch Việt Nam"
+ },
+ {
+   "id": 71,
+   "eng": "Timetable",
+   "pronunce": "",
+   "vie": "Lịch trình"
+ },
+ {
+   "id": 72,
+   "eng": "Tour Voucher",
+   "pronunce": "",
+   "vie": "Phiếu dịch vụ du lịch"
+ },
+ {
+   "id": 73,
+   "eng": "Tour Wholesaler",
+   "pronunce": "",
+   "vie": "Hãng lữ hành bán sỉ"
+ },
+ {
+   "id": 74,
+   "eng": "Transfer",
+   "pronunce": "",
+   "vie": "Đưa đón"
+ },
+ {
+   "id": 75,
+   "eng": "Travel Advisories",
+   "pronunce": "",
+   "vie": "Thông tin cảnh báo khách du lịch"
+ },
+ {
+   "id": 76,
+   "eng": "Travel Desk Agent",
+   "pronunce": "",
+   "vie": "Nhân viên Đại lý lữ hành"
+ },
+ {
+   "id": 77,
+   "eng": "Travel Trade",
+   "pronunce": "",
+   "vie": "Kinh doanh lữ hành"
+ },
+ {
+   "id": 78,
+   "eng": "Traveller",
+   "pronunce": "",
+   "vie": "Lữ khách hoặc khách du lịch"
+ },
+ {
+   "id": 79,
+   "eng": "UNWTO",
+   "pronunce": "",
+   "vie": "Tên cập nhật (2006) của Tổ chức Du lịch Thế giới, nhằm phân biệt với tên của Tổ chức Thương mại Thế giới (WTO)"
+ },
+ {
+   "id": 80,
+   "eng": "Visa",
+   "pronunce": "",
+   "vie": "Thị thực"
+ },
+ {
+   "id": 81,
+   "eng": "Voucher",
+   "pronunce": "",
+   "vie": "Biên lai"
+ },
+ {
+   "id": 82,
+   "eng": "Wholesaler",
+   "pronunce": "",
+   "vie": "Hãng lữ hành bán sỉ"
+ },
+ {
+   "id": 83,
+   "eng": "Domestic travel ",
+   "pronunce": "/dəˈmestɪk ˈtrævl/ ",
+   "vie": "du lịch trong nước "
+ },
+ {
+   "id": 84,
+   "eng": "Schedule",
+   "pronunce": "/ˈʃedjuːl/",
+   "vie": "lịch trình"
+ },
+ {
+   "id": 85,
+   "eng": "Itinerary",
+   "pronunce": "/aɪˈtɪnərəri/",
+   "vie": "lịch trình chuyến đi"
+ },
+ {
+   "id": 86,
+   "eng": "Baggage allowance",
+   "pronunce": "/ˈbæɡɪdʒ əˈlaʊəns/",
+   "vie": "lượng hành lý cho phép"
+ },
+ {
+   "id": 87,
+   "eng": "Inclusive tour",
+   "pronunce": "/ɪnˈkluːsɪv tʊə(r)/",
+   "vie": "tour trọn gói"
+ },
+ {
+   "id": 88,
+   "eng": "Manifest",
+   "pronunce": "/ˈmæn.ɪ.fest/",
+   "vie": "danh sách khách hàng"
+ },
+ {
+   "id": 89,
+   "eng": "Brochure",
+   "pronunce": "/ˈbrəʊ.ʃər/ hay /broʊˈʃʊr/",
+   "vie": "sách giới thiệu"
+ },
+ {
+   "id": 90,
+   "eng": "Preferred product",
+   "pronunce": "/prɪˈfɜːd ˈprɒd.ʌkt/",
+   "vie": "sản phẩm ưu đãi"
+ },
+ {
+   "id": 91,
+   "eng": "Retail Travel Agency",
+   "pronunce": "/ˈriːteɪlˈtrævl eɪdʒənsi/",
+   "vie": "đại lý bán lẻ về du lịch"
+ },
+ {
+   "id": 92,
+   "eng": "Destination",
+   "pronunce": "/ˌdestɪˈneɪʃn/",
+   "vie": "điểm đến"
+ },
+ {
+   "id": 93,
+   "eng": "Accommodation",
+   "pronunce": "/əˌkɒm.əˈdeɪ.ʃən/",
+   "vie": "chỗ ở"
+ },
+ {
+   "id": 94,
+   "eng": "Travel agent",
+   "pronunce": "/ˈtræv.əl ˌeɪ.dʒənt/",
+   "vie": "công ty lữ hành"
+ }
+]
